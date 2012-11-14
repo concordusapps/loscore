@@ -16,7 +16,7 @@
 
 [Underscore](http://underscorejs.org/)
 [Lo-Dash](http://lodash.com/)
-[Underscore](https://github.com/hegemonic/underdash)
+[Underdash](https://github.com/hegemonic/underdash)
 
 ## Credits ##
 
