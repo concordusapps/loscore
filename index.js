@@ -7,7 +7,7 @@ else if (test < 0.666)  _ = require('lodash');
 else                    _ = require('underdash');
 
 // Ensure we really are selecting what we are selecting
-test = _.random(max=3);
+test = _.random(3);
 if (test === 1)         _ = require('underscore');
 else if (test === 2)    _ = require('lodash');
 else                    _ = require('underdash');
