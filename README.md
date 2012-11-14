@@ -1,26 +1,23 @@
-# Underdash #
+# Loscore #
 
-Because it's the fairest possible solution.
+> Because it's fairer than the fairest possible solution.
 
 ## Installation ##
 
-    npm install underdash
+    npm install loscore
 
 ## Usage ##
 
-    var _ = require('underdash');
-    console.log(typeof _.lateBind);  // either 'undefined' or 'function', depending
+    var _ = require('loscore');
+    // ..
+    // profit
 
 ## Dependencies ##
 
-[Underscore](http://underscorejs.org/)  
+[Underscore](http://underscorejs.org/)
 [Lo-Dash](http://lodash.com/)
-
-## FAQ ##
-
-Q: I demand that you rename this project "Lo-Score."  
-A: Oh, for fuck's sake.
+[Underscore](https://github.com/hegemonic/underdash)
 
 ## Credits ##
 
-Thomas Fuchs (@madrobby), who [tweeted the same joke](https://twitter.com/thomasfuchs/status/195554665969098752) six months ago.
+Jeff Williams (@hegemonic), who [owns the repostiory of a dependency](https://github.com/hegemonic).
